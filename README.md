@@ -5,7 +5,7 @@ Es proyecto corresponde al desarrollo de una base de datos para el almacenamient
 La tabla marcas almacena las marcas de las distintas prendas
 La tabla prendas almacena la descripción de la prenda y la cantidad de stock
 La tabla ventas almacena las distintas ventas
-Integrantes: Steffani Maria Madrigal Solano
+Integrantes: Steffani Maria Madrigal Solano y Johanna Machado Solano
 ----------CREACION DE LA BASE DE DATOS
 CREATE DATABASE LATIENDA;
 
